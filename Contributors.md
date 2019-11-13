@@ -13,6 +13,8 @@
 - [Jonas Bak Phillipson]
 - [Nicholas Kelly]
 - [Juan Perez]
+- [Youssef Irhboula]
+- [Rémi Heitz]
 - [Harry Harrison] (https://github.com/HarryH-Tech)
 - [LVZ]
 - [Alandouglas Godinho Mendes](https://github.com/AlandouglasMendes/)
